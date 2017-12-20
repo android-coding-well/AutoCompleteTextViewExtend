@@ -50,7 +50,7 @@ dependencies {
 
 ## 注意
 * 为了避免引入第三方库导致工程依赖多个版本的问题，如android support库
-* 故建议在个人的工程目录下的build.gradle下加入以下变量，具体请看此[build.gradle](https://github.com/huweijian5/项目名称/blob/master/build.gradle)
+* 故建议在个人的工程目录下的build.gradle下加入以下变量，具体请看此[build.gradle](https://github.com/huweijian5/AutoCompleteTextViewExtend/blob/master/build.gradle)
 ```
 ext{
     minSdkVersion = 16
